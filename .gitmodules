@@ -1,0 +1,9 @@
+[submodule "gitmark_base/gitmark_base/private"]
+	path = gitmark_base/gitmark_base/private
+	url = tlevine@secrets.thomaslevine.com:bookmarks-private.git
+[submodule "gitmark_base/gitmark_base/public"]
+	path = gitmark_base/gitmark_base/public
+	url = git@github.com:tlevine/bookmarks-public.git
+[submodule "gitmark_base/content"]
+	path = gitmark_base/content
+	url = tlevine@secrets.thomaslevine.com:bookmarks-private.git
