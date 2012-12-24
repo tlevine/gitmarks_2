@@ -63,7 +63,12 @@ python gitmark.py -m 'my site' -t me,hilary_mason,code,bookmarks http://www.hila
 
 
 
+===============
+Tom's changes
+===============
+My settings go in ~/.gitmarks2.py
 
+The three git repositories are submodules.
 
 
 ===============
